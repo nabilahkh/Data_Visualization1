@@ -4,11 +4,14 @@ The dataset comprises information about FIFA World Cup matches, containing detai
 This dataset serves as the basis for analyzing FIFA World Cup matches, allowing for insights into various aspects of the tournament, such as team performances, match outcomes, and attendance trends. Before conducting any analysis, it's essential to perform data cleaning and preprocessing to ensure the dataset's quality and integrity.
 
 ## Python Libraries Import
+<div align="center"><img src="https://github.com/nabilahkh/Data_Visualization1/assets/92252191/42db3c9b-f5b7-4956-a7ac-732bb8d778aa"/></div>
 
 
 ## Load Data Set
-
+<div align="center"><img src="" /></div>
+<div align="center"><img src="https://github.com/nabilahkh/Data_Visualization1/assets/92252191/9e69ac6d-8205-4783-9330-0741622195ac"/></div>
 Display the data set that has been loaded
+<div align="center"><img src="https://github.com/nabilahkh/Data_Visualization1/assets/92252191/b6e55d58-0257-4425-bede-983e3c70f6f1)" /></div>
 
 
 ## Data Cleansing
